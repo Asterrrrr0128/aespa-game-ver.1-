@@ -1,3 +1,5 @@
+//還沒想法 待更
+
 using UnityEngine;
 
 public class interact : MonoBehaviour
